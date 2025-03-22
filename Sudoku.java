@@ -39,7 +39,7 @@ public class Sudoku {
         "812945763"
     };
 
-    JFrame frame = new JFrame("Sudoku");
+    JFrame frame = new JFrame("Sudoku"); // make it Jpanel i think?
     JLabel textLabel = new JLabel();
     JPanel textPanel = new JPanel();
     JPanel boardPanel = new JPanel();
